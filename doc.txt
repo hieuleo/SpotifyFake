@@ -1,0 +1,6 @@
+* dependencies:
+    - axios: 
+    - redux: 
+    - react-router-dom:
+    - swiper:
+    
